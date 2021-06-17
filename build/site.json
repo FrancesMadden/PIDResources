@@ -9,9 +9,9 @@
 		"logo_path": "graphics/TaNC-logo-rev-wh-RGB.png",
 		"footer": "<p>Created as part of the <a href=\"https://tanc-ahrc.github.io/HeritagePIDs\">Heritage PIDS</a> project.<\/p><a href=\"https://www.nationalcollection.org.uk//\"><img alt=\"AHRC TANC\" style=\"border-width:0;height:31px;\" src=\"graphics/TANC_03.png\"></a>",
 		"extra_logos": {},
-		"extra_js_scripts": ["https://unpkg.com/sticky-table-headers", ],
+		"extra_js_scripts": ["https://unpkg.com/sticky-table-headers"],
 		"extra_css_scripts": [],
 		"extra_css": "",
-		"extra_js": "$(function() {$(\"table\").stickyTableHeaders();});",
+		"extra_js": "$(\"table\").stickyTableHeaders();",
 		"GoogleAnalyticsID": "G-SW2KJT18G6"
 	}
