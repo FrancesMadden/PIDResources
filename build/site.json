@@ -12,6 +12,6 @@
 		"extra_js_scripts": ["https://unpkg.com/sticky-table-headers", "../js/jquery.stickytableheaders.js", "https://cdnjs.com/libraries/floatthead/"],
 		"extra_css_scripts": [],
 		"extra_css": "table.floatThead-table {border-top: none; border-bottom: none;background-color: #FFF;}",
-		"extra_js": "$(function() {$(\"table\").stickyTableHeaders();});", "  $(\".table.with-responsive-wrapper\").floatThead({responsiveContainer: function($table){return $table.closest(\".table-responsive\");}});$(\".table.without-responsive-wrapper\").floatThead();,
+		"extra_js": "$(function() {$(\"table\").stickyTableHeaders();});", "  $(\".table.with-responsive-wrapper\").floatThead({responsiveContainer: function($table){return $table.closest(\".table-responsive\");}});$(\".table.without-responsive-wrapper\").floatThead();",
 		"GoogleAnalyticsID": "G-SW2KJT18G6"
 	}
