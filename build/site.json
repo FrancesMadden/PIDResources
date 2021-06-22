@@ -12,6 +12,6 @@
 		"extra_js_scripts": [],
 		"extra_css_scripts": [],
 		"extra_css": "",
-		"extra_js": "$(document).ready(function(){$('[data-bs-toggle=\"popover\"]').popover();});</script>",
+		"extra_js": "$(document).ready(function(){$('[data-bs-toggle=\"popover\"]').popover();});",
 		"GoogleAnalyticsID": "G-SW2KJT18G6"
 	}
