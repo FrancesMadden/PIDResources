@@ -10,7 +10,7 @@
 		"footer": "<p>Created as part of the <a href=\"https://tanc-ahrc.github.io/HeritagePIDs\">Heritage PIDS</a> project.<\/p><a href=\"https://www.nationalcollection.org.uk//\"><img alt=\"AHRC TANC\" style=\"border-width:0;height:31px;\" src=\"graphics/TANC_03.png\"></a>",
 		"extra_logos": {},
 		"extra_js_scripts": ["$(document).ready(function(){$('[data-bs-toggle=\"popover\"]').popover();});"],
-		"extra_css_scripts": [],
+		"extra_css_scripts": ["var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle=\"popover\"]'))var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {return new bootstrap.Popover(popoverTriggerEl)})"],
 		"extra_css": "",
 		"extra_js": "",
 		"GoogleAnalyticsID": "G-SW2KJT18G6"
