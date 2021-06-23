@@ -12,6 +12,6 @@
 		"extra_js_scripts": [],
 		"extra_css_scripts": [],
 		"extra_css": "",
-		"extra_js": "$(document).ready(function(){$('[data-bs-toggle=\"popover\"]').popover();});",
+		"extra_js": "$(document).ready(function(){$('[data-bs-toggle=\"popover\"]').popover();}); var $table = $('table.demo'); $table.floatThead(); $('table').floatThead({position: 'absolute'});",
 		"GoogleAnalyticsID": "G-SW2KJT18G6"
 	}
