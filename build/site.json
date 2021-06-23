@@ -11,7 +11,7 @@
 		"extra_logos": {},
 		"extra_js_scripts": [],
 		"extra_css_scripts": [],
-		"extra_css": ".tableFixHead { overflow: auto; height: 100px; }.tableFixHead thead th { position: sticky; top: 0; z-index: 1;}",
+		"extra_css": ".tableFixHead { overflow: visible; height: 100px; }.tableFixHead thead th { position: sticky; top: 0; z-index: 1;}",
 		"extra_js": "$(document).ready(function(){$('[data-bs-toggle=\"popover\"]').popover();});",
 		"GoogleAnalyticsID": "G-SW2KJT18G6"
 	}
