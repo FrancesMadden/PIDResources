@@ -3,50 +3,34 @@
   "displaychecked": false,
   "tableofcontents": false,
   "groups": {
-     "Materials" : {
+    "Supporting Materials" : {
       "comment": "",
       "card": "list",
       "maxcols": 1}
-    	},  
-"list": [{
-	"groups": ["Materials"],
-	"ptitle": "Read this first",
-	"stitle": "How to use this resource",
-	"comment": "",
-	"image": "graphics/more-information.png",
-	"checked": "",
-	"link": "https://tanc-ahrc.github.io/PIDResources/Read%20Me.html"
-},{
-"groups": ["Materials"],
-	"ptitle": "Baseline implementation",
-	"stitle": "",
-	"comment": "",
-	"image": "graphics/rocket.png",
-	"checked": "",
-	"link": "https://tanc-ahrc.github.io/PIDResources/Baseline.html"  
-},{
-	"groups": ["Materials"],
-	"ptitle": "Glossary",
-	"stitle": "",
-	"comment": "",
-	"image": "graphics/book.png",
-	"checked": "",
-	"link": "https://tanc-ahrc.github.io/PIDResources/Glossary.html"  
-},{
-	"groups": ["Materials"],
-	"ptitle": "Use case mapping",
-	"stitle": "",
-	"comment": "",
-	"image": "graphics/map.png",
-	"checked": "",
-	"link": "https://tanc-ahrc.github.io/PIDResources/Use%20case%20mapping.html"  
-},{
-	"groups": ["Materials"],
-	"ptitle": "PID Functionalities",
-	"stitle": "",
-	"comment": "",
-	"image": "graphics/social-media.png",
-	"checked": "",
-	"link": "https://tanc-ahrc.github.io/PIDResources/PID%20functionalities.html"  
-}]
+ },
+ "list": [{
+ 	"groups": ["Supporting Materials"],
+ 	"ptitle": "Glossary",
+ 	"stitle": "",
+ 	"comment": "",
+ 	"image": "graphics/book.png",
+ 	"checked": "",
+ 	"link": "https://tanc-ahrc.github.io/PIDResources/Glossary.html"
+ },{
+ 	"groups": ["Supporting Materials"],
+ 	"ptitle": "Use case mapping",
+ 	"stitle": "",
+ 	"comment": "",
+ 	"image": "graphics/map.png",
+ 	"checked": "",
+ 	"link": "https://tanc-ahrc.github.io/PIDResources/Use%20case%20mapping.html"
+ },{
+   "groups": ["Supporting Materials"],
+   "ptitle": "How to have resources cited using PIDs? ",
+   "stitle": "",
+   "comment": "",
+   "image": "graphics/quotation.png",
+   "checked": "",
+   "link": ""
+ }]
 }
