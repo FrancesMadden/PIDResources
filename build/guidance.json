@@ -1,0 +1,53 @@
+{
+	"defaultcard": "list",
+	"displaychecked": false,
+	"tableofcontents": false,
+	"groups": {
+		"Guidance": {
+			"comment": "",
+			"card": "list",
+			"maxcols": 1
+		}
+	},
+	"list": [{
+		"groups": ["Guidance"],
+		"ptitle": "How to guarantee persistence?",
+		"stitle": "",
+		"commment": "",
+		"image": "graphics/guaranteed.png",
+		"checked": "",
+		"link": ""
+	}, {
+		"groups": ["Guidance"],
+		"ptitle": "How to implement human readable PIDs?",
+		"stitle": "",
+		"commment": "",
+		"image": "graphics/quotation.png",
+		"checked": "",
+		"link": ""
+	}, {
+		"groups": ["Guidance"],
+		"ptitle": "How to implement machine readable PIDs?",
+		"stitle": "",
+		"commment": "",
+		"image": "graphics/implementation.png",
+		"checked": "",
+		"link": ""
+	}, {
+		"groups": ["Guidance"],
+		"ptitle": "How to implement globally resolvable  PIDs?",
+		"stitle": "",
+		"commment": "",
+		"image": "graphics/global-network.png",
+		"checked": "",
+		"link": ""
+	}, {
+		"groups": ["Guidance"],
+		"ptitle": "How much does it cost to implement PIDs?",
+		"stitle": "",
+		"commment": "",
+		"image": "graphics/pound-sterling.png",
+		"checked": "",
+		"link": ""
+	}]
+}
