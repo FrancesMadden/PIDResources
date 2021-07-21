@@ -49,5 +49,13 @@
 		"image": "graphics/pound-sterling.png",
 		"checked": "",
 		"link": ""
-	}]
+	 },{
+   		"groups": ["Guidance"],
+   		"ptitle": "How to have resources cited using PIDs? ",
+   		"stitle": "",
+   		"comment": "",
+   		"image": "graphics/quotation.png",
+   		"checked": "",
+   		"link": ""
+	 }]
 }
